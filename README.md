@@ -10,7 +10,7 @@ Below I have highlighted some relevant project work displaying some of my techni
 
 # [Project 1: Loan Default Prediction](https://github.com/hassrm08/Loan_Predict)
 
-The final project for DS 705 - Statistical Methods included the observation, cleaning, and analysis of loan data to predict the likelihood that a potential borrower would default on their loan.
+The final project for DS705 - Statistical Methods included the observation, cleaning, and analysis of loan data to predict the likelihood that a potential borrower would default on their loan.
 
 Data was taken from 50,000 loans. The dataset included 30 potential predictor variables.
 
@@ -27,7 +27,7 @@ The figure above displays the graphical respresentation of the threshold selecti
 
 # [Project 2: Music Genre Popularity](https://github.com/hassrm08/Genre_Twitter_Analysis)
 
-The final project for DS 710 - Programming for Data Science included an open ended analysis fo Twitter data using the Twitter API.
+The final project for DS710 - Programming for Data Science included an open ended analysis fo Twitter data using the Twitter API.
 
 I chose to evaluate the popularity of musical genres based on their perceived popularity on Twitter. Popularity is determined in two ways. First, by overall tweet count within a predetermined amount of time and then by the number of exclamation marks used within those tweets.
 
