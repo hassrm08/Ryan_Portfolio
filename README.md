@@ -32,7 +32,8 @@ Additionally, model selection and assessment was done to determine the overall a
 
 The analysis was done using the 'caret' package in R.
 
-# [Project 4: Paper Quality and Testing Parameter Evaluation]()
+# [Project 4: Paper Quality Testing Gage Comparison]()
+
 
 
   
