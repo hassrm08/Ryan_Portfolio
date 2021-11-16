@@ -22,7 +22,13 @@ Two methods were used (in R Studio) in order to evaluate the relationship betwee
 
 ![](images/Exclaims%20by%20Tweet.png)
 
-# [Project 3: Double Cross Validation]()
+# [Project 3: Double Cross Validation](https://github.com/hassrm08/Double_CV)
 
+The Double Cross Validation project is the Midterm project for DS740 - Data Mining and Machine Learning.
 
+The goal of this project was to evaluate means of predicting the retail price of vehicles based on the predictors variables provided.
+
+Additionally, model selection and assessment was done to determine the overall accuracy of the model as well as the model selction process using double cross validation techniques.
+
+The analysis was done using the 'caret' package in R.
   
