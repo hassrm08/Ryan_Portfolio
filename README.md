@@ -32,7 +32,7 @@ Additionally, model selection and assessment was done to determine the overall a
 
 The analysis was done using the 'caret' package in R.
 
-# [Project 4: Paper Quality Testing Gage Comparison]()
+# [Project 4: Paper Quality Testing Gage Comparison](https://github.com/hassrm08/GBP_Data_Analysis)
 
 The purpose of this study is to compare the reproducibility and repeatability of two testing methods using Gage R&R. The test methods being compared are Concora and S-Test.  Both tests measure sheet strength in the machine direction (MD).  Because the test methods measure strength differently, Gage R&R is used to compare a common measurement.
 
