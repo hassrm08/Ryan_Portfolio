@@ -28,6 +28,7 @@ The Double Cross Validation project is the Midterm project for DS740 - Data Mini
 
 The goal of this project was to evaluate means of predicting the retail price of vehicles based on the predictors variables provided.
 
+
 Additionally, model selection and assessment was done to determine the overall accuracy of the model as well as the model selction process using double cross validation techniques.
 
 The analysis was done using the 'caret' package in R.
@@ -36,3 +37,4 @@ The analysis was done using the 'caret' package in R.
 
 The purpose of this study is to compare the reproducibility and repeatability of two testing methods using Gage R&R. The test methods being compared are Concora and S-Test.  Both tests measure sheet strength in the machine direction (MD).  Because the test methods measure strength differently, Gage R&R is used to compare a common measurement.
 
+![](images/Gage%20Report.gif)
