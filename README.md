@@ -1,5 +1,4 @@
-# Ryan_Portfolio
-Data Science Portfolio
+# Ryan Hass DS Portfolio
 
 # [Project 1: Loan Default Prediction](https://github.com/hassrm08/Loan_Predict)
 
