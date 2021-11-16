@@ -10,7 +10,7 @@ The methods of analysis include a logistic regression model that was derived fro
 
 ![](/main/Loan%20Default%20Accuracy%20Threshold.png)
 
-![]/main/Loan%20Default%20Profit%20Threshold.png)
+![](/main/Loan%20Default%20Profit%20Threshold.png)
 
 # [Project 2: Music Genre Popularity](https://github.com/hassrm08/Genre_Twitter_Analysis)
 
