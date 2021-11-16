@@ -10,7 +10,7 @@ Below I have highlighted some relevant project work displaying some of my techni
 
 # [Project 1: Loan Default Prediction](https://github.com/hassrm08/Loan_Predict)
 
-The final project for DS 705 - Statistical Methods included the observation, cleaning, and analysis of loan data to predict the likelihood that a potential borrower would default on their loan.
+The final project for DS705 - Statistical Methods included the observation, cleaning, and analysis of loan data to predict the likelihood that a potential borrower would default on their loan.
 
 Data was taken from 50,000 loans using 30 variables.
 
@@ -20,7 +20,7 @@ The methods of analysis include a logistic regression model that was derived fro
 
 # [Project 2: Music Genre Popularity](https://github.com/hassrm08/Genre_Twitter_Analysis)
 
-The final project for DS 710 - Programming for Data Science included an open ended analysis fo Twitter data using the Twitter API.
+The final project for DS710 - Programming for Data Science included an open ended analysis fo Twitter data using the Twitter API.
 
 I chose to evaluate the popularity of musical genres based on their perceived popularity on Twitter. Popularity is determined in two ways. First, by overall tweet count then by the number of exclamation marks used within those tweets.
 
@@ -35,7 +35,6 @@ Two methods were used (in R Studio) in order to evaluate the relationship betwee
 The Double Cross Validation project is the Midterm project for DS740 - Data Mining and Machine Learning.
 
 The goal of this project was to evaluate means of predicting the retail price of vehicles based on the predictors variables provided.
-
 
 Additionally, model selection and assessment was done to determine the overall accuracy of the model as well as the model selction process using double cross validation techniques.
 
