@@ -8,7 +8,7 @@ Data was taken from 50,000 loans using 30 variables.
 
 The methods of analysis include a logistic regression model that was derived from the most relevant variables within the given data set including income, employment status, interest rate, salary, loan term, and overall applicant grade.
 
-![](images/Loan%20Default%20Accuracy%20Threshold.png)  ![](images/Loan%20Default%20Profit%20Threshold.png)
+![](images/Loan%20Default%20Profit%20Threshold.png)
 
 # [Project 2: Music Genre Popularity](https://github.com/hassrm08/Genre_Twitter_Analysis)
 
@@ -20,7 +20,7 @@ Tweets were collected using the REST API through Python. The program grabbed (up
 
 Two methods were used (in R Studio) in order to evaluate the relationship between tweet count and exclamation mark count by genre. First, I evaluated the potential for a linear relationship between both variables. The variables were plotted against one another in a scatterplot (Figure 3), and a summary of the linear model was created. Secondly, the variables (Tweet Count & Exclamation Count) were compared in a Chi Squared Test of Independence.
 
-![](images/Tweets%20by%20Genre.png)  ![](images/Exclaims%20by%20Genre.png)
+![](images/Tweets%20by%20Genre.png)
 
 # [Project 3: Double Cross Validation]()
 
