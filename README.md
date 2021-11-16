@@ -24,6 +24,7 @@ Overall, the logistic regression model created to predict if a loan applicant is
 
 The figure above displays the graphical respresentation of the threshold selection process.
 
+
 # [Project 2: Music Genre Popularity](https://github.com/hassrm08/Genre_Twitter_Analysis)
 
 The final project for DS 710 - Programming for Data Science included an open ended analysis fo Twitter data using the Twitter API.
@@ -42,6 +43,7 @@ Both analyses indicate that there is likely no relationship between the number o
 
 The figure above displays the relatinship between Exclamation count and Tweet count by Genre.
 
+
 # [Project 3: Double Cross Validation](https://github.com/hassrm08/Double_CV)
 
 The Double Cross Validation project is the Midterm project for DS740 - Data Mining and Machine Learning.
@@ -51,6 +53,19 @@ The goal of this project was to evaluate means of predicting the retail price of
 Additionally, model selection and assessment was done to determine the overall accuracy of the model as well as the model selction process using double cross validation techniques.
 
 The analysis was done using the 'caret' package in R.
+
+Feature engineering was practiced to evaluate predictor variables.
+
+Robust Regression and Elestic Net Regression methods were compared.
+
+Model performance was tuned by the use of different model parameters.
+
+Based on the information above, and the performance of my model selection process (70.5%), the aforementioned Elastic Net model is sufficiently accurate for making new predictions on individual data points especially with lower cost vehicles as displayed by the tightness of the data points on the lower end of the scale in Figure 2. The model is best at predicting price when the vehicle is worth ≈$50,000 or less.
+
+![](images/Variables.png)
+
+The figure above respresents the relatinships between the response variable and certain predictor variables.
+
 
 # [Project 4: Paper Quality Testing Gage Comparison](https://github.com/hassrm08/GBP_Data_Analysis)
 
