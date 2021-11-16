@@ -31,4 +31,8 @@ The goal of this project was to evaluate means of predicting the retail price of
 Additionally, model selection and assessment was done to determine the overall accuracy of the model as well as the model selction process using double cross validation techniques.
 
 The analysis was done using the 'caret' package in R.
+
+# [Project 4: Paper Quality and Testing Parameter Evaluation]()
+
+
   
