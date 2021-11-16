@@ -1,7 +1,7 @@
 # Ryan_Portfolio
 Data Science Portfolio
 
-# [Project 1: Loan Default Predcition](https://github.com/hassrm08/Loan_Predict)
+# [Project 1: Loan Default Prediction](https://github.com/hassrm08/Loan_Predict)
 
 The final project for DS 705 - Statistical Methods included the observation, cleaning, and analysis of loan data to predict the likelihood that a potential borrower would default on their loan.
 
