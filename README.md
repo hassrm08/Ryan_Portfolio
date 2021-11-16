@@ -8,9 +8,9 @@ Data was taken from 50,000 loans using 30 variables.
 
 The methods of analysis include a logistic regression model that was derived from the most relevant variables within the given data set including income, employment status, interest rate, salary, loan term, and overall applicant grade.
 
-![](/images/Loan%20Default%20Accuracy%20Threshold.png)
+![](images/Loan%20Default%20Accuracy%20Threshold.png)
 
-![](/images/Loan%20Default%20Profit%20Threshold.png)
+![](images/Loan%20Default%20Profit%20Threshold.png)
 
 # [Project 2: Music Genre Popularity](https://github.com/hassrm08/Genre_Twitter_Analysis)
 
