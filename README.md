@@ -41,7 +41,7 @@ Both analyses indicate that there is likely no relationship between the number o
 
 ![](images/Exclaims%20by%20Tweet.png)
 
-The figure above displays the relatinship between Exclamation count and Tweet count by Genre.
+The figure above displays the relationship between Exclamation count and Tweet count by Genre.
 
 
 # [Project 3: Double Cross Validation](https://github.com/hassrm08/Double_CV)
@@ -84,3 +84,5 @@ The results suggest that the S-test has a higher reliability based on the result
 In this case, it is recmoneded that Concora be phased out as the primary means of measuring machine direciton paper strength and the S-test should take its place.
 
 ![](images/Gage%20Report.gif)
+
+The visual above shows the relationship between various testers, tests, and a summary of how reproducable and how repeatable the tests are compared with one another.
