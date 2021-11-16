@@ -1,5 +1,13 @@
 # Ryan Hass DS Portfolio
 
+I am currently pursuing a Master's degree in [Data Science](https://datasciencedegree.wisconsin.edu/) from the University of Wisconsin - Green Bay. I will earn my Graduate Certificate in December of 2021 and anticpate to graduate with my M.S. in May of 2023.
+
+I have completed (or currently enrolled in) the following coursework: DS700 - Foundations of Data Science, DS705 - Statistical Methods, DS710 - Programming for Data Science, DS715 - Data Warehousing, DS735 - Communicating about Data, DS740 - Data Mining and Machine Learning, DS780 - Data Science and Strategic Decision Making.
+
+I have yet to complete the following: DS730 - Big Data: High-Performance Computing, DS745 - Visualization and Unstructured Data Analysis, DS760 - Ethics of Data Science, DS775 - Prescriptive Analytics, and DS785 - Capstone.
+
+Below I have highlighted some relevant project work from both my academic and professional experiences.
+
 # [Project 1: Loan Default Prediction](https://github.com/hassrm08/Loan_Predict)
 
 The final project for DS 705 - Statistical Methods included the observation, cleaning, and analysis of loan data to predict the likelihood that a potential borrower would default on their loan.
