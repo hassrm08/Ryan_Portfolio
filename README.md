@@ -20,7 +20,7 @@ Tweets were collected using the REST API through Python. The program grabbed (up
 
 Two methods were used (in R Studio) in order to evaluate the relationship between tweet count and exclamation mark count by genre. First, I evaluated the potential for a linear relationship between both variables. The variables were plotted against one another in a scatterplot (Figure 3), and a summary of the linear model was created. Secondly, the variables (Tweet Count & Exclamation Count) were compared in a Chi Squared Test of Independence.
 
-![](images/Tweets%20by%20Genre.png)
+![](images/Exclaims%20by%20Tweet.png)
 
 # [Project 3: Double Cross Validation]()
 
