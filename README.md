@@ -18,7 +18,7 @@ The final model can performed with an accuracy of 82.19%. The model is sufficien
 
 ![](images/Picture1.png)
 
-The figure above displays the importance of each variable compoared to its ability to predict genre.
+The figure above displays the importance of each variable compared to its ability to predict genre.
 
 # [Project 2: Loan Default Prediction](https://github.com/hassrm08/Loan_Predict)
 
