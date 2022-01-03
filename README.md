@@ -8,7 +8,11 @@ I will be completing the following in the coming semesters: DS730 - Big Data: Hi
 
 Below I have highlighted some relevant project work displaying some of my technical skills at a high level. Examples are from both academic and professional experiences.
 
-# [Project 1: Loan Default Prediction](https://github.com/hassrm08/Loan_Predict)
+# [Project 1: Music Genre Prediction](https://github.com/hassrm08/Genre_Prediction)
+
+This investigation is focused on the ability to predict a song’s genre based on a series of attributes that are thought to define a song. Country and Rock music share many attributes and being able to accurately identify one over the other is highly important when providing the listener with music that matches their preferences. Though my analysis focuses only on two of the available genres, it can be expanded to evaluate other genres. The data scientists at Spotify (in this case) that create music selection algorithms will be particularly interested in the answer to this question. Being able to tweak and improve their predictive methods to drive a highly accurate, personalized recommendations is highly attractive for Spotify listeners. The differentiation of closely related genres can be particularly beneficial, which is the focus of this study.
+
+# [Project 2: Loan Default Prediction](https://github.com/hassrm08/Loan_Predict)
 
 The final project for DS705 - Statistical Methods included the observation, cleaning, and analysis of loan data to predict the likelihood that a potential borrower would default on their loan.
 
@@ -25,7 +29,7 @@ Overall, the logistic regression model created to predict if a loan applicant is
 The figure above displays the graphical respresentation of the threshold selection process.
 
 
-# [Project 2: Music Genre Popularity](https://github.com/hassrm08/Genre_Twitter_Analysis)
+# [Project 3: Music Genre Popularity](https://github.com/hassrm08/Genre_Twitter_Analysis)
 
 The final project for DS710 - Programming for Data Science included an open ended analysis fo Twitter data using the Twitter API.
 
@@ -44,7 +48,7 @@ Both analyses indicate that there is likely no relationship between the number o
 The figure above displays the relationship between Exclamation count and Tweet count by Genre.
 
 
-# [Project 3: Double Cross Validation](https://github.com/hassrm08/Double_CV)
+# [Project 4: Double Cross Validation](https://github.com/hassrm08/Double_CV)
 
 The Double Cross Validation project is the Midterm project for DS740 - Data Mining and Machine Learning.
 
@@ -67,7 +71,7 @@ Based on the information above, and the performance of my model selection proces
 The figure above respresents the relatinships between the response variable and certain predictor variables.
 
 
-# [Project 4: Paper Quality Testing Gage Comparison](https://github.com/hassrm08/GBP_Data_Analysis)
+# [Project 5: Paper Quality Testing Gage Comparison](https://github.com/hassrm08/GBP_Data_Analysis)
 
 The purpose of this project was to evaluate the correlation between different testing methods used to quantify paper strength.
 
