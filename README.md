@@ -1,5 +1,7 @@
 # Ryan Hass DS Portfolio
 
+Hello, and thank you for taking the time to review some of my work!
+
 I am currently pursuing a Master's degree in [Data Science](https://datasciencedegree.wisconsin.edu/) from the University of Wisconsin - Green Bay with an anticipated graduation of May, 2023.
 
 I have completed the following coursework: DS700 - Foundations of Data Science, DS705 - Statistical Methods, DS710 - Programming for Data Science, DS715 - Data Warehousing, DS735 - Communicating about Data, DS740 - Data Mining and Machine Learning, DS780 - Data Science and Strategic Decision Making; granting me a Graduate Certificate in Data Science.
@@ -14,11 +16,13 @@ The final project for DS740 - Data Mining & Machine Learning included the observ
 
 This investigation is focused on the ability to predict a song’s genre based on a series of attributes that are thought to define a song. Country and Rock music share many attributes and being able to accurately identify one over the other is highly important when providing the listener with music that matches their preferences. Though my analysis focuses only on two of the available genres, it can be expanded to evaluate other genres. The data scientists at Spotify (in this case) that create music selection algorithms will be particularly interested in the answer to this question. Being able to tweak and improve their predictive methods to drive a highly accurate, personalized recommendations is highly attractive for Spotify listeners. The differentiation of closely related genres can be particularly beneficial, which is the focus of this study.
 
-The final model can performed with an accuracy of 82.19%. The model is sufficiently accurate to be used on new data, especially given the context of the problem.  This model is used for predicting music, not diagnosing a disease, so 82% accuracy is perfectly fine. 
+Feature engineering was used to analyze, transform, and combine/remove some variable to aid in the accuracy of the anaylsis.
+
+The final model performed with an accuracy of 82.19%. The model is sufficiently accurate to be used on new data, especially given the context of the problem.  
 
 ![](images/Picture1.png)
 
-The figure above displays the importance of each variable compared to its ability to predict genre.
+The figure above displays the importance of each variable compared to its ability to predict genre in my final model.
 
 # [Project 2: Loan Default Prediction](https://github.com/hassrm08/Loan_Predict)
 
@@ -41,7 +45,7 @@ The figure above displays the graphical respresentation of the threshold selecti
 
 The final project for DS710 - Programming for Data Science included an open ended analysis fo Twitter data using the Twitter API.
 
-I chose to evaluate the popularity of musical genres based on their perceived popularity on Twitter. Popularity is determined in two ways. First, by overall tweet count within a predetermined amount of time and then by the number of exclamation marks used within those tweets.
+I chose to evaluate the popularity of musical genres based on their perceived popularity on Twitter. Popularity, in this case, is determined by two measures. First, by overall tweet count within a predetermined amount of time and then by the number of exclamation marks used within a fixed number of tweets.
 
 Tweets were collected using the REST API through Python. The program grabbed (up to 5000) tweets that were categorized into genres.
 
@@ -58,7 +62,7 @@ The figure above displays the relationship between Exclamation count and Tweet c
 
 # [Project 4: Double Cross Validation](https://github.com/hassrm08/Double_CV)
 
-The Double Cross Validation project is the Midterm project for DS740 - Data Mining and Machine Learning.
+Double Cross Validation is the Midterm project for DS740 - Data Mining and Machine Learning.
 
 The goal of this project was to evaluate means of predicting the retail price of vehicles based on the predictors variables provided.
 
