@@ -10,6 +10,9 @@ I will be completing the following in the coming semesters: DS730 - Big Data: Hi
 
 Below I have highlighted some relevant project work displaying some of my technical skills at a high level. Examples are from both academic and professional experiences.
 
+
+If you have any questions or would like further explaination of any of these projects, feel free to contact me via email at hassrm08@gmail.com.
+
 # [Project 1: Music Genre Prediction](https://github.com/hassrm08/Genre_Prediction)
 
 The final project for DS740 - Data Mining & Machine Learning included the observation, cleaning, and analysis of real-life, publicly available data. I chose a dataset from [kaggle](https://www.kaggle.com/vicsuperman/prediction-of-music-genre?select=music_genre.csv), containing a large amount of characteristic data about a large variety of songs from Spotify.
