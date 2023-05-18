@@ -2,11 +2,7 @@
 
 Hello, and thank you for taking the time to review some of my work!
 
-I am currently pursuing a Master's degree in [Data Science](https://datasciencedegree.wisconsin.edu/) from the University of Wisconsin - Green Bay with an anticipated graduation of May, 2023.
-
-I have completed the following coursework: DS700 - Foundations of Data Science, DS705 - Statistical Methods, DS710 - Programming for Data Science, DS715 - Data Warehousing, DS735 - Communicating about Data, DS740 - Data Mining and Machine Learning, DS780 - Data Science and Strategic Decision Making; granting me a Graduate Certificate in Data Science.
-
-I will be completing the following in the coming semesters: DS730 - Big Data: High-Performance Computing, DS745 - Visualization and Unstructured Data Analysis, DS760 - Ethics of Data Science, DS775 - Prescriptive Analytics, and DS785 - Capstone.
+I have recently graduated with a Master's degree in [Data Science](https://datasciencedegree.wisconsin.edu/) from the University of Wisconsin - Green Bay.
 
 Below I have highlighted some relevant project work displaying some of my technical skills at a high level. Examples are from both academic and professional experiences.
 
