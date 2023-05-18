@@ -1,4 +1,4 @@
-# Ryan Hass DS Portfolio
+# Ryan Hass, M.S. Data Science Portfolio
 
 Hello, and thank you for taking the time to review some of my work!
 
