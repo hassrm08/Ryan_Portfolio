@@ -9,7 +9,23 @@ Below I have highlighted some relevant project work displaying some of my techni
 
 If you have any questions or would like further explaination of any of these projects, feel free to contact me via email at hassrm08@gmail.com.
 
-# [Project 1: Music Genre Prediction](https://github.com/hassrm08/Genre_Prediction)
+# [Project 1: Modeling Specilaty Pharmacy Sales Volume](https://github.com/hassrm08/Capstone-Project)
+
+The capstone project for M.S. Data Science program included an opportunity to work with a client to identify a use case for data science and apply the appropriate skills and methodologies to help solve the problem.
+
+Working with Pharmacy leaders, a need for a tool to help understand the demand fluctuations for the Specialty Pharmacy at Froedtert Health was determined. This was done through an evaluation of sales volume within the Specialty Pharmacy and used as an indicator for staffing levels.
+
+(Proprietary) data was collected and heavy scrutiny was placed on variable selection and exploratory data analysis.
+
+The data was reviewed and cleaned prior to being exported for analysis in R.
+
+A series of regression models were applied to the data; Ridge, Lasso, and Elastic Net.
+
+An optimal model was identified and many insights were derived to help the Pharmacy leaders understand their business in greater detail. Additionally, the results of the model were used in congruence with various other metrics to quantify the relationship between the variables and serve as a leading indicator of fulctuations in demand.
+
+Much of the information is proprietary and confidential.
+
+# [Project 2: Music Genre Prediction](https://github.com/hassrm08/Genre_Prediction)
 
 The final project for DS740 - Data Mining & Machine Learning included the observation, cleaning, and analysis of real-life, publicly available data. I chose a dataset from [kaggle](https://www.kaggle.com/vicsuperman/prediction-of-music-genre?select=music_genre.csv), containing a large amount of characteristic data about a large variety of songs from Spotify.
 
@@ -23,7 +39,7 @@ The final model performed with an accuracy of 82.19%. The model is sufficiently 
 
 The figure above displays the importance of each variable compared to its ability to predict genre in my final model.
 
-# [Project 2: Loan Default Prediction](https://github.com/hassrm08/Loan_Predict)
+# [Project 3: Loan Default Prediction](https://github.com/hassrm08/Loan_Predict)
 
 The final project for DS705 - Statistical Methods included the observation, cleaning, and analysis of loan data to predict the likelihood that a potential borrower would default on their loan.
 
@@ -40,7 +56,7 @@ Overall, the logistic regression model created to predict if a loan applicant is
 The figure above displays the graphical respresentation of the threshold selection process.
 
 
-# [Project 3: Music Genre Popularity](https://github.com/hassrm08/Genre_Twitter_Analysis)
+# [Project 4: Music Genre Popularity](https://github.com/hassrm08/Genre_Twitter_Analysis)
 
 The final project for DS710 - Programming for Data Science included an open ended analysis fo Twitter data using the Twitter API.
 
@@ -59,7 +75,7 @@ Both analyses indicate that there is likely no relationship between the number o
 The figure above displays the relationship between Exclamation count and Tweet count by Genre.
 
 
-# [Project 4: Double Cross Validation](https://github.com/hassrm08/Double_CV)
+# [Project 5: Double Cross Validation](https://github.com/hassrm08/Double_CV)
 
 Double Cross Validation is the Midterm project for DS740 - Data Mining and Machine Learning.
 
@@ -82,7 +98,7 @@ Based on the information above, and the performance of my model selection proces
 The figure above respresents the relatinships between the response variable and certain predictor variables.
 
 
-# [Project 5: Paper Quality Testing Gage Comparison](https://github.com/hassrm08/GBP_Data_Analysis)
+# [Project 6: Paper Quality Testing Gage Comparison](https://github.com/hassrm08/GBP_Data_Analysis)
 
 The purpose of this project was to evaluate the correlation between different testing methods used to quantify paper strength.
 
