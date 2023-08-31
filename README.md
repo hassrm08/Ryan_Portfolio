@@ -25,6 +25,8 @@ Below I have highlighted some relevant project work displaying some of my techni
 
 If you have any questions or would like further explanation of any of these projects, feel free to contact me via email at hassrm08@gmail.com.
 
+# Data Science Projects
+
 # [Project 1: Modeling Specialty Pharmacy Sales Volume](https://github.com/hassrm08/Capstone-Project)
 
 The capstone project for M.S. Data Science program included an opportunity to work with a client to identify a use case for data science as well as apply the appropriate skills and methodologies to help solve the problem within the time constraints of a single semester.
