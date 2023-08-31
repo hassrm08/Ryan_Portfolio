@@ -1,4 +1,4 @@
-# Ryan Hass | Data Science and Writing Portfolio
+# Ryan Hass | Data Science Portfolio and Writing Samples
 
 Hello and welcome!
 
@@ -128,8 +128,13 @@ A full Gage R&R comparison was carried out with the Minitab statistical software
 
 The results suggest that the S-test has a higher reliability based on the results of the Gage comparison.
 
+
 In this case, it is recommended that Concora be phased out as the primary means of measuring machine direction paper strength and the S-test should take its place.
 
 ![](images/Gage%20Report.gif)
 
 The visual above shows the relationship between various testers, and tests, and a summary of how reproducible and how repeatable the tests are compared with one another.
+
+# Writing Samples
+
+Writing samples will be added soon. 
