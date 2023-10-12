@@ -1,10 +1,10 @@
-# Ryan Hass | Data Science Portfolio and Writing Samples
+# Ryan Hass | Data Science Portfolio
 
 Hello and welcome!
 
 Thank you for taking the time to review some of my work!
 
-I've created this page to display some of the work I've completed in the fields of data analysis, data visualization, and data science. Additionally, I have samples of my writing that can be found towards the bottom of the page.
+I've created this page to display some of the work I've completed in the fields of data analysis, data visualization, and data science. 
 
 # About Me | Who is Ryan Hass?
 
@@ -14,7 +14,7 @@ Professionally, I am a senior data analyst for Froedtert Health, a large hospita
 
 I also have vast experience in the Pulp and Paper industry where I've worn multiple hats. I focused many years on developing a formalized problem-solving process to reduce costly failures and prevent reoccurrences. Methods included Cause Mapping, 6 Sigma methodologies, statistics/data analysis, and root cause analysis. I have many years of lab, quality, and continuous improvement experience. Lastly, I spent a considerable amount of time building a data repository for a major expansion project procuring, cleaning, and organizing equipment reliability data and storing it in the Computerized Maintenance Management Software. 
 
-I have spent time working in academia both on research with the Unversity of Wisconsin-Madison, and on freelance data projects for The Citadel in South Carolina.
+I have spent time working in academia both on research with the Unversity of Wisconsin-Madison and on freelance data projects for The Citadel in South Carolina.
 
 
 Outside of work, I participate in numerous hobbies including amateur astronomy, BBQ/Smoking, guitar playing, hunting/fishing, and cheering for the Minnesota Vikings. Skol Vikes! 
@@ -29,37 +29,39 @@ If you have any questions or would like further explanation of any of these proj
 
 # [Project 1: Modeling Specialty Pharmacy Sales Volume](https://github.com/hassrm08/Capstone-Project)
 
-The capstone project for M.S. Data Science program included an opportunity to work with a client to identify a use case for data science as well as apply the appropriate skills and methodologies to help solve the problem within the time constraints of a single semester.
+The capstone project for the M.S. Data Science program included an opportunity to work with a client to identify a use case for data science as well as apply the appropriate skills and methodologies to help solve the problem within the time constraints of a single semester.
 
-Working with Pharmacy leaders, the need for a tool to help understand the demand fluctuations for the Specialty Pharmacy at Froedtert Health was determined. This was done through an evaluation of sales volume within the Specialty Pharmacy and used as an indicator for staffing levels.
+Working with Pharmacy leaders, the need for a model to help understand the demand fluctuations for the Specialty Pharmacy at Froedtert Health was determined. This was done by evaluating sales volume within the Specialty Pharmacy using wrangling, cleaning, and modeling structured data.
 
-(Proprietary) data was collected and heavy scrutiny was placed on variable selection and exploratory data analysis.
+Exploratory data analysis was performed on various levels of records including sales, orders, medications, and encounters.
 
-The data was reviewed and cleaned prior to being exported for analysis in R.
+The data was reviewed and cleaned before being exported for analysis in R.
 
 A series of regression models were applied to the data; Ridge, Lasso, and Elastic Net.
 
 An optimal model was identified and many insights were derived to help the Pharmacy leaders understand their business in greater detail. Additionally, the results of the model were used in congruence with various other metrics to quantify the relationship between the variables and serve as a leading indicator of fluctuations in demand.
 
-Much of the information is proprietary and confidential.
+As the first of its kind within my organization, this project displays the value of machine learning and data science methodologies in the Specialty Pharmacy space at Froedtert Health. Additionally, the insight gained by knowing which factors impact the sales volume allowed pharmacy leaders to create a set of leading indicators. These indicators provide decision-making assistance pertaining to staff levels optimizing workload and maximizing employee satisfaction. In turn, this model has helped reduce employee turnover due to burnout. 
 
 # [Project 2: Music Genre Prediction](https://github.com/hassrm08/Genre_Prediction)
 
-The final project for DS740 - Data Mining & Machine Learning included the observation, cleaning, and analysis of real-life, publicly available data. I chose a dataset from [kaggle](https://www.kaggle.com/vicsuperman/prediction-of-music-genre?select=music_genre.csv), containing a large amount of characteristic data about a large variety of songs from Spotify.
+The final project for DS740 - Data Mining & Machine Learning included the observation, cleaning, and analysis of real-life, publicly available structured data. I chose a dataset from [kaggle](https://www.kaggle.com/vicsuperman/prediction-of-music-genre?select=music_genre.csv), containing a large amount of characteristic data about a large variety of songs from Spotify.
 
 This investigation is focused on the ability to predict a song’s genre based on a series of attributes that are thought to define a song. Country and Rock music share many attributes and being able to accurately identify one over the other is highly important when providing the listener with music that matches their preferences. Though my analysis focuses only on two of the available genres, it can be expanded to evaluate other genres. The data scientists at Spotify (in this case) who create music selection algorithms will be particularly interested in the answer to this question. Being able to tweak and improve their predictive methods to drive highly accurate, personalized recommendations is highly attractive for Spotify listeners. The differentiation of closely related genres can be particularly beneficial, which is the focus of this study.
 
 Feature engineering was used to analyze, transform, and combine/remove some variables to aid in the accuracy of the analysis.
 
-The final model performed with an accuracy of 82.19%. The model is sufficiently accurate to be used on new data, especially given the context of the problem.  
+The final model was performed with an accuracy of 82.19%. The model is sufficiently accurate to be used on new data, especially given the context of the problem. 
 
 ![](images/Picture1.png)
 
-The figure above displays the importance of each variable compared to its ability to predict genre in my final model.
+The figure above displays the importance of each variable compared to its ability to predict genre in my final model. In this case 'popularity', 'instrumentalness', and 'acousticness' have the strongest correlation with genre, respectively.
+
+This model would be particularly valuable when run in tandem with a recommender system. Any music streaming service could find value by focusing recommendations on the learned preferences of each user. This level of customization provides a strong user experience and would in turn increase subscriptions.
 
 # [Project 3: Loan Default Prediction](https://github.com/hassrm08/Loan_Predict)
 
-The final project for DS705 - Statistical Methods included the observation, cleaning, and analysis of loan data to predict the likelihood that a potential borrower would default on their loan.
+The final project for DS705 - Statistical Methods included the observation, cleaning, and analysis of structured loan data to predict the likelihood that a potential borrower would default on their loan.
 
 Data was taken from 50,000 loans. The dataset included 30 potential predictor variables.
 
@@ -71,12 +73,13 @@ Overall, the logistic regression model created to predict if a loan applicant is
 
 ![](images/Loan%20Default%20Profit%20Threshold.png)
 
-The figure above displays the graphical representation of the threshold selection process.
+The figure above displays the graphical representation of the threshold selection process used to select an optimal model based on business needs. In this case, this graph was used to visualize the difference in performance when the model was focused on either profitability or accuracy.
 
+This type of model would support actuarial work and be used to filter off unfavorable loan applicants. The business implications here include increased profits from choosing the best loan applicants and reduced loan defaults by not lending to risky applicants.
 
 # [Project 4: Music Genre Popularity](https://github.com/hassrm08/Genre_Twitter_Analysis)
 
-The final project for DS710 - Programming for Data Science included an open-ended analysis of Twitter data using the Twitter API.
+The final project for DS710 - Programming for Data Science included an open-ended analysis of unstructured Twitter data using the Twitter API.
 
 I chose to evaluate the popularity of musical genres based on their perceived popularity on Twitter. Popularity, in this case, is determined by two measures. First, by overall tweet count within a predetermined amount of time and then by the number of exclamation marks used within a fixed number of tweets.
 
@@ -90,8 +93,9 @@ Both analyses indicate that there is likely no relationship between the number o
 
 ![](images/Exclaims%20by%20Tweet.png)
 
-The figure above displays the relationship between Exclamation count and Tweet count by Genre.
+The figure above displays the relationship between Exclamation count and Tweet count by Genre. There is a mild inverse relationship between the volume of Tweets submitted and the number of exclamations made in each Tweet.
 
+This analysis provides value by comparing Twitter users' behaviors with factual data. When compared, an analytics team can begin to understand ways of predicting user preference by a series of behaviors. This could open up plentiful opportunities for marketing and advertisement based on sentiment.
 
 # [Project 5: Double Cross Validation](https://github.com/hassrm08/Double_CV)
 
@@ -136,7 +140,3 @@ In this case, it is recommended that Concora be phased out as the primary means 
 ![](images/Gage%20Report.gif)
 
 The visual above shows the relationship between various testers, and tests, and a summary of how reproducible and how repeatable the tests are compared with one another.
-
-# Writing Samples
-
-Writing samples will be added soon. 
