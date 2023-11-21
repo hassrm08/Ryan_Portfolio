@@ -45,7 +45,7 @@ As the first of its kind within my organization, this project displays the value
 
 # [Project 2: Music Genre Prediction](https://github.com/hassrm08/Genre_Prediction)
 
-The final project for DS740 - Data Mining & Machine Learning included the observation, cleaning, and analysis of real-life, publicly available structured data. I chose a dataset from [kaggle](https://www.kaggle.com/vicsuperman/prediction-of-music-genre?select=music_genre.csv), containing a large amount of characteristic data about a large variety of songs from Spotify.
+This project included the observation, cleaning, and analysis of real-life, publicly available structured data. I chose a dataset from [kaggle](https://www.kaggle.com/vicsuperman/prediction-of-music-genre?select=music_genre.csv), containing a large amount of characteristic data about a large variety of songs from Spotify.
 
 This investigation is focused on the ability to predict a song’s genre based on a series of attributes that are thought to define a song. Country and Rock music share many attributes and being able to accurately identify one over the other is highly important when providing the listener with music that matches their preferences. Though my analysis focuses only on two of the available genres, it can be expanded to evaluate other genres. The data scientists at Spotify (in this case) who create music selection algorithms will be particularly interested in the answer to this question. Being able to tweak and improve their predictive methods to drive highly accurate, personalized recommendations is highly attractive for Spotify listeners. The differentiation of closely related genres can be particularly beneficial, which is the focus of this study.
 
@@ -61,7 +61,7 @@ This model would be particularly valuable when run in tandem with a recommender 
 
 # [Project 3: Loan Default Prediction](https://github.com/hassrm08/Loan_Predict)
 
-The final project for DS705 - Statistical Methods included the observation, cleaning, and analysis of structured loan data to predict the likelihood that a potential borrower would default on their loan.
+The Loan Default Project included the observation, cleaning, and analysis of structured loan data to predict the likelihood that a potential borrower would default on their loan.
 
 Data was taken from 50,000 loans. The dataset included 30 potential predictor variables.
 
@@ -79,7 +79,7 @@ This type of model would support actuarial work and be used to filter off unfavo
 
 # [Project 4: Music Genre Popularity](https://github.com/hassrm08/Genre_Twitter_Analysis)
 
-The final project for DS710 - Programming for Data Science included an open-ended analysis of unstructured Twitter data using the Twitter API.
+This project included an open-ended analysis of unstructured Twitter data using the Twitter API.
 
 I chose to evaluate the popularity of musical genres based on their perceived popularity on Twitter. Popularity, in this case, is determined by two measures. First, by overall tweet count within a predetermined amount of time and then by the number of exclamation marks used within a fixed number of tweets.
 
@@ -98,8 +98,6 @@ The figure above displays the relationship between Exclamation count and Tweet c
 This analysis provides value by comparing Twitter users' behaviors with factual data. When compared, an analytics team can begin to understand ways of predicting user preference by a series of behaviors. This could open up plentiful opportunities for marketing and advertisement based on sentiment.
 
 # [Project 5: Double Cross Validation](https://github.com/hassrm08/Double_CV)
-
-Double Cross Validation is the Midterm project for DS740 - Data Mining and Machine Learning.
 
 The goal of this project was to evaluate means of predicting the retail price of vehicles based on the predictors variables provided.
 
